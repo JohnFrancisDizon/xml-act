@@ -1,0 +1,61 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<computers>
+
+	<computer1>
+		<name>MacBook Pro</name>
+		<manufacturer>Apple Inc.</manufacturer>
+		<processor>Apple M1 Pro/M1 Max</processor>
+		<graphics>Up to AMD Radeon Pro W6900X with 32GB of GDDR6 memory</graphics>
+		<memory>Up to 64GB unified memory</memory>
+		<storage>Up to 8TB SSD</storage>
+		<display>16-inch Retina display with True Tone</display>
+		<price>$1,999 to $6,099</price>
+	</computer1>
+    <computer2>
+		<name>Dell XPS 13</name>
+		<manufacturer>Dell Technologies Inc.</manufacturer>
+			<processor>
+				<variant1>11th Gen Intel Core i3</variant>
+				<variant2>11th Gen Intel Core i5</variant>
+				<variant3>11th Gen Intel Core i7</variant>
+			</processor>
+		<graphics>Intel Iris Xe Graphics</graphics>
+		<memory>Up to 16GB LPDDR4x RAM</memory>
+		<storage>Up to 2TB M.2 PCIe NVMe SSD</storage>
+		<display>13.4-inch FHD+ or UHD+ touch display</display>
+		<price>$999 to $2,499</price>
+	</computer2>
+	<computer3>
+		<name>HP Spectre x360</name>
+		<manufacturer>HP Inc.</manufacturer>
+		<processor>11th Gen Intel Core i5 or i7</processor>
+		<graphics>Intel Iris Xe Graphics</graphics>
+		<memory>Up to 16GB LPDDR4x RAM</memory>
+		<storage>Up to 2TB PCIe NVMe M.2 SSD</storage>
+		<display>13.3-inch FHD or 4K UHD touch display</display>
+		<price>$1,099 to $1,899</price>
+	</computer3>
+	<computer4>
+		<name>Lenovo ThinkPad X1 Carbon</name>
+		<manufacturer>Lenovo Group Limited</manufacturer>
+			<processor>
+				<variant1>11th Gen Intel Core i5</variant>
+				<variant2>11th Gen Intel Core i7</variant>
+			</processor>
+		<graphics>Intel Iris Xe Graphics</graphics>
+		<memory>Up to 16GB LPDDR4x RAM</memory>
+		<storage>Up to 2TB PCIe SSD</storage>
+		<display>14-inch FHD or 4K UHD display</display>
+		<price>$1,553.40 to $2,717.40</price>
+	</computer4>
+	<computer5>
+		<name>ASUS ROG Zephyrus G14</name>
+		<manufacturer>ASUSTeK Computer Inc.</manufacturer>
+		<processor>AMD Ryzen 9 5900HS</processor>
+		<graphics>NVIDIA GeForce RTX 3060 Max-Q</graphics>
+		<memory>Up to 16GB DDR4 RAM</memory>
+		<storage>Up to 1TB M.2 NVMe PCIe 3.0 SSD</storage>
+		<display>14-inch FHD IPS display with 120Hz refresh rate</display>
+		<price>$1,699.99 to $2,199.99</price>
+	</computer5>
+</computers>
